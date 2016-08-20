@@ -58,8 +58,10 @@ public class GuessGame {
         System.out.println("Players will have to try again.");
       }
     }
-  }
+  }  
 }
+
+// Game is still not breaking in the correct area. Please investigate. 
 
 
 
